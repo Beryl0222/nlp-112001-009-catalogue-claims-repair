@@ -1,0 +1,34 @@
+[
+  {
+    "id": "l1",
+    "channel": "网页",
+    "location": "商品首屏",
+    "scope": "se1、se2、se3",
+    "part": "标题",
+    "text": "整件遇水不变形"
+  },
+  {
+    "id": "l2",
+    "channel": "网页",
+    "location": "商品首屏",
+    "scope": "se1",
+    "part": "规格旁注",
+    "text": "仅指春甲批外层样条，清水浸湿半小时"
+  },
+  {
+    "id": "l3",
+    "channel": "应用卡",
+    "location": "首页短卡",
+    "scope": "se1、se2",
+    "part": "主文",
+    "text": "半小时内长度变化不到 2%"
+  },
+  {
+    "id": "l4",
+    "channel": "应用卡",
+    "location": "详情页底",
+    "scope": "se1",
+    "part": "改稿",
+    "text": "春甲外层样条清水浸湿半小时，长度变化不到两毫米"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "se1",
+    "series": "听雨旅行罩",
+    "outer": "甲纤织物",
+    "lining": "凉棉",
+    "batch": "春甲"
+  },
+  {
+    "id": "se2",
+    "series": "听雨旅行罩",
+    "outer": "乙纤织物",
+    "lining": "凉棉",
+    "batch": "春乙"
+  },
+  {
+    "id": "se3",
+    "series": "听雨旅行罩",
+    "outer": "甲纤织物",
+    "lining": "暖棉",
+    "batch": "冬甲"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "name": "catalogue-claims-repair",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "体验品商品资料",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "test": "node --test",
+    "materials": "node materials.js"
+  }
+}
